@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, my name is Alexis Alvarez 👋
 
-<!--
-**aalvarez17-cyber/aalvarez17-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤔 A bit about me...
+ 
+- 📫 I am currently live at Chicago and can be reached at **_aalvarezz148@gmail.com_**
 
-Here are some ideas to get you started:
+- ⚡ I’m currently studying cybersecurity at the Illinois Institute of Technology 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on expanding my technical knowledge in a variety of domains that involve cybersecurity. 
+___
+
+## 💬 Why cybersecurity??? 
+
+**Thats the million dollar question... WHY?**
+
+Sure I love it and all but it felt right to go into this field for many reasons. 😄
+
+Maybe wanting to hack things or seeing the vast potential this offers for my carreer are reasons that any person can name. The movies did make the field look very cool.
+
+I thought, feel like its my calling!
